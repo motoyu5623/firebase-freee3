@@ -24,5 +24,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "firebase-admin": "^9.1.1"
+  }
 }
